@@ -30,7 +30,7 @@ y evita servir de más si el gato se queda frente al plato.
 
 ## Simulación
 
-Proyecto en Wokwi: <enlace público>
+Proyecto en Wokwi: https://wokwi.com/projects/479813371852206081
 
 ## Código
 
@@ -42,4 +42,4 @@ Ver la carpeta firmware/. Biblioteca usada: ESP32Servo.
 
 ## Mejoras futuras
 
-- Aviso por wi*fi, app conectada al sensor.
+- Aviso por wi-fi, app conectada al sensor.
