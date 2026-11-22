@@ -2,7 +2,7 @@
 
 Proyecto del curso EL-1200 Introducción a la Electrónica, TEC, II semestre 2026.
 
-**Integrantes:** Amanda Brown Corrales, Karla Murillo
+**Integrantes:** Amanda Brown, Karla Murillo
 
 ## Descripción
 
